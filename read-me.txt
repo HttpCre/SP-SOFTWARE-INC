@@ -1,7 +1,7 @@
 Do not edit any files.
 
 Instructions:
--Download all the files as a .zip all at once.
+-Download all the files as a ".zip" all at once.
 -Put the "ServerPrintingRoom" file in "program files(x86)/steam/steamapps/common/Softwareinc/blueprints"
 -Launch "Software Inc.exe" and play! (Blueprint will be in edit mode!)
 
